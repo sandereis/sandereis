@@ -30,7 +30,7 @@ Nasceu em 2020 como trabalho da disciplina de Processamento Gráfico na UNISINOS
 
 ## 💼 Também sou
 
-Dono da **Baterias JR**, loja de baterias automotivas, para motos, caminhões e estacionárias, com serviços de carga, testes e socorro.
+Responsável pela administração e pelos sistemas da **Baterias JR**, loja de baterias para carros, motos, caminhões e uso estacionário, com serviços de carga, testes e socorro.
 
 ## 📫 Contato
 
